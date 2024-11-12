@@ -1,0 +1,1 @@
+console.log("Prototyping the API for a proof of concept before the development begins")
